@@ -19,9 +19,5 @@ This is a Discord bot designed to help small teams manage tasks. It supports add
 | `!complete_task <task_id>`     | Marks the task with the specified task ID as completed. |
 
 
-### Key Sections:
-
-- **Features**: Brief description of the functionality provided by the bot.
-- **Commands**: Detailed list of commands that the bot provides.
 
 
