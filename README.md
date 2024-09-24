@@ -6,8 +6,8 @@ This is a Discord bot designed to help small teams manage tasks. It supports add
 
 - **Add Task**: Add a task with a description.
 - **Delete Task**: Delete a task by its ID.
-- **Show Tasks**: Show a list of all tasks, including their status (completed or not).
-- **Complete Task**: Mark a task as completed by its ID.
+- **List Tasks**: Show a list of all tasks, including their status (completed or not).
+- **Change Task Status**: Mark a task as completed by its ID.
 
 ## Commands
 
@@ -17,5 +17,11 @@ This is a Discord bot designed to help small teams manage tasks. It supports add
 | `!delete_task <task_id>`       | Deletes the task with the specified task ID.     |
 | `!show_tasks`                  | Shows all tasks with their status.               |
 | `!complete_task <task_id>`     | Marks the task with the specified task ID as completed. |
+
+
+### Key Sections:
+
+- **Features**: Brief description of the functionality provided by the bot.
+- **Commands**: Detailed list of commands that the bot provides.
 
 
