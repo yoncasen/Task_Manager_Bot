@@ -1,6 +1,6 @@
 # Task Manager Bot
 
-This is a Discord bot designed to help small teams manage tasks. It supports adding, deleting, viewing, and completing tasks. All tasks are stored in an SQLite database. 
+This is a Discord bot designed to help small teams manage tasks. It supports adding, deleting, listing, and updating tasks. All tasks are stored in an SQLite database. 
 
 ## Features
 
