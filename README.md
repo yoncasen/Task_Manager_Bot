@@ -18,6 +18,15 @@ This is a Discord bot designed to help small teams manage tasks. It supports add
 | `!show_tasks`                  | Shows all tasks with their status.               |
 | `!complete_task <task_id>`     | Marks the task with the specified task ID as completed. |
 
+
+## Requirements
+
+To run this project, you'll need the following:
+
+- Python 3.8 or later
+- SQLite
+- Discord Bot and its token
+  
 ## Installation
 
 - **Clone the repository**
