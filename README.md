@@ -56,7 +56,7 @@ pipenv shell
 
 5. **Set up your bot token**
 
-- Create a file named bot_token.py in the root directory and add your bot token as follows:
+ Create a file named bot_token.py in the root directory and add your bot token as follows:
 
 ```python
 token = "YOUR_DISCORD_BOT_TOKEN"
@@ -68,7 +68,7 @@ token = "YOUR_DISCORD_BOT_TOKEN"
 python main.py
 ```
 
-- or
+ or
 
 ```bash
 python3 main.py
@@ -76,7 +76,7 @@ python3 main.py
 
 7. **Test the bot commands**
 
-- Open Discord and use the bot commands in any server/channel where the bot is present.
+ Open Discord and use the bot commands in any server/channel where the bot is present.
 
 ## Database
 
