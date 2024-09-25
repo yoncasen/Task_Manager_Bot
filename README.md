@@ -68,6 +68,12 @@ token = "YOUR_DISCORD_BOT_TOKEN"
 python main.py
 ```
 
+or
+
+```bash
+python3 main.py
+```
+
 - **Test the bot commands**
 
 Open Discord and use the bot commands in any server/channel where the bot is present.
@@ -90,4 +96,10 @@ To run the tests, use the following command:
 
 ```bash
 python run_tests.py
+```
+
+or 
+
+```bash
+python3 run_tests.py
 ```
