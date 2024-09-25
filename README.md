@@ -63,11 +63,11 @@ python main.py
 
 Open Discord and use the bot commands in any server/channel where the bot is present.
 
-##Database
+## Database
 
 Tasks are stored in an SQLite database named tasks.db. A separate test database (test_tasks.db) is used for unit tests.
 
-##Running Tests
+## Running Tests
 
 Tests are located in the tests/ directory. Each test file tests different functionalities of the bot:
 
