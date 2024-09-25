@@ -29,32 +29,32 @@ To run this project, you'll need the following:
   
 ## Installation
 
-**Clone the repository**
+1. **Clone the repository**
 
 ```bash
 git clone https://github.com/yourusername/task_manager_bot.git
 cd task_manager_bot
 ```
 
-**Install pipenv (if you don't have it installed)**
+2. **Install pipenv (if you don't have it installed)**
 
 ```bash
 pip install pipenv
 ```
 
-**Create a virtual environment install dependencies**
+3. **Create a virtual environment install dependencies**
 
 ```bash
 pipenv install
 ```
 
-**Activate the virtual environment**
+4. **Activate the virtual environment**
 
 ```bash
 pipenv shell
 ```
 
-**Set up your bot token**
+5. **Set up your bot token**
 
 Create a file named bot_token.py in the root directory and add your bot token as follows:
 
@@ -62,7 +62,7 @@ Create a file named bot_token.py in the root directory and add your bot token as
 token = "YOUR_DISCORD_BOT_TOKEN"
 ```
 
-**Run the bot**
+6. **Run the bot**
 
 ```bash
 python main.py
@@ -74,7 +74,7 @@ or
 python3 main.py
 ```
 
-**Test the bot commands**
+7. **Test the bot commands**
 
 Open Discord and use the bot commands in any server/channel where the bot is present.
 
