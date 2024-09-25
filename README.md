@@ -76,4 +76,4 @@ Tests are located in the tests/ directory. Each test file tests different functi
 - **test_delete_task_unauthorized.py**: Tests deleting tasks by non-owner.
 - **test_get_all_tasks**: Tests displaying tasks.
 - **test_complete_task**: Tests completing tasks by the owner.
-- **test_complete_task_unauthorized**: Tests completing tasks by non-owner.
+
