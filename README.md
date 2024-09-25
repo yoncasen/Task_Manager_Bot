@@ -77,3 +77,8 @@ Tests are located in the tests/ directory. Each test file tests different functi
 - **test_get_all_tasks**: Tests displaying tasks.
 - **test_complete_task**: Tests completing tasks by the owner.
 
+To run the tests, use the following command:
+
+```bash
+python run_tests.py
+```
