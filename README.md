@@ -22,42 +22,48 @@ This is a Discord bot designed to help small teams manage tasks. It supports add
 
 - **Clone the repository**
 
-'''bash
+```bash
 git clone https://github.com/yourusername/task_manager_bot.git
 cd task_manager_bot
+```
 
 - **Install pipenv (if you don't have it installed)**
 
-'''bash
-pip install pipenv 
+```bash
+pip install pipenv
+```
 
 - **Create a virtual environment install dependencies**
 
-'''bash
+```bash
 pipenv install
+```
 
 - **Activate the virtual environment**
 
-'''bash
+```bash
 pipenv shell
+```
 
 - **Set up your bot token**
 
 Create a file named bot_token.py in the root directory and add your bot token as follows:
 
-'''python
+```python
 token = "YOUR_DISCORD_BOT_TOKEN"
+```
 
 - **Run the bot**
 
-'''bash
+```bash
 python main.py
+```
 
 - **Test the bot commands**
 
 Open Discord and use the bot commands in any server/channel where the bot is present.
 
-## Database
+##Database
 
 Tasks are stored in an SQLite database named tasks.db. A separate test database (test_tasks.db) is used for unit tests.
 
