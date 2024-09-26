@@ -45,7 +45,7 @@ pip install pipenv
 3. **Create a virtual environment install dependencies**
 
 ```bash
-pipenv install
+pipenv install .
 ```
 
 4. **Activate the virtual environment**
